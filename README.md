@@ -44,6 +44,8 @@ Muti-platform management system for uniapp, H5, Android, IOS, Min Program.
 > 提示：Android二维码使用手机浏览器扫<br>
 > 用户名：admin 密码：admin
 
+**欢迎沟通交流，作者(wx:BJGFCYY,qq:2480621579)**
+
 <img src="http://silianpan.cn/wp-content/uploads/2020/08/wp_editor_md_5130d93e34fca6703f465b8d173cd042.jpg" width="120" alt="h5"/>
 <img src="http://silianpan.cn/wp-content/uploads/2020/08/wp_editor_md_5e73998d5012227676299f651d760cf2.jpg" width="120" alt="android"/>
 
