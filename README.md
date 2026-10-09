@@ -327,7 +327,6 @@ request(options = {}) {
 
 #### 赞助作者
 
-<img src="http://silianpan.cn/wp-content/uploads/2019/10/b9c369443b192642f975be9020b3234e.png" width="120"/>
-<img src="http://silianpan.cn/wp-content/themes/yusi1.0/img/weixin.gif" width="120" />
+<img width="1102" height="532" alt="4eb44e08901eee275b0973372f7ddd4b" src="https://github.com/user-attachments/assets/65369fa3-a51c-4da0-bb1f-167aad91af98" />
 
 转载请注明：[溜爸 » 基于uni-app多平台管理系统模板uniapp-admin](http://silianpan.cn/index.php/2019/10/26/uniapp_admin/)
